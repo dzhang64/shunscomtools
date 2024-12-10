@@ -1,0 +1,11 @@
+2024-01-10 09:12:53,676 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, TemplateInfo -84844
+2024-01-10 09:12:53,688 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, Index -84844
+2024-01-10 09:12:53,699 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, EUtranCellTDD -84844
+2024-01-10 09:13:14,383 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, EUtranCellMeasurementTDD -84844
+2024-01-10 09:13:43,320 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, EUtranReselectionTDD -84844
+2024-01-10 09:13:52,867 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, UeEUtranMeasurementTDD -84844
+2024-01-10 09:15:50,216 - ho_check.py - line:64 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx, CellMeasGroupTDD -84844
+2024-01-10 09:16:14,097 - ho_check.py - line:94 - INFO - 读取数据完成 -84844
+2024-01-10 09:16:14,767 - ho_check.py - line:135 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx切换完成 -84844
+2024-01-10 09:16:15,039 - ho_check.py - line:180 - INFO - E:\p_py\互操作核查\source\SDR_tdd_radio_20240108165942.xlsx重选完成 -84844
+2024-01-10 09:16:15,462 - ho_check.py - line:188 - INFO - suss -84844

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>XMLHand</class>
+ <widget class="QDialog" name="XMLHand">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>692</width>
+    <height>519</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>PDF处理</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton_choose_dir">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 255);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>选择文件</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QListWidget" name="listWidget_xml_paths"/>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_remove_xml">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 255);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>移除文件</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <layout class="QVBoxLayout" name="verticalLayout_2">
+     <item>
+      <widget class="QPushButton" name="pushButton_do_convert">
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 255);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>转换</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
